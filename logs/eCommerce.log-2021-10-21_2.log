@@ -1,0 +1,8 @@
+newLog4j2-2021-10-24 21:18:23 [main] INFO  com.example.demo.controllers.UserController - start this eCommerce Application
+newLog4j2-2021-10-24 21:18:23 [main] INFO  com.example.demo.controllers.UserController - start this eCommerce Application
+newLog4j2-2021-10-24 21:18:23 [main] INFO  com.example.demo.controllers.UserController - start this eCommerce Application
+newLog4j2-2021-10-24 21:18:23 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on myPUBG with PID 1072 (C:\Users\mayitbe\IdeaProjects\P04-eCommerce\starter_code\target\classes started by mayitbe in C:\Users\mayitbe\IdeaProjects\P04-eCommerce)
+newLog4j2-2021-10-24 21:18:23 [main] DEBUG com.example.demo.SareetaApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+newLog4j2-2021-10-24 21:18:23 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+newLog4j2-2021-10-24 21:18:26 [main] DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter - Filter 'JWTAuthenticationVerficationFilter' configured for use
+newLog4j2-2021-10-24 21:18:26 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 3.175 seconds (JVM running for 4.141)
